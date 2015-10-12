@@ -41,7 +41,11 @@ response = @client.account.messages.create(
             'Very doubtful'].sample
 		)
 
+<<<<<<< HEAD
 puts response.to
 
 #App will respond to user with a random answer to their questions
 #Made with love by Eric A. Washington 2015
+=======
+puts response.to
+>>>>>>> a3676a6e1ecb5eb5b971813fa7deb3178a6bad33
