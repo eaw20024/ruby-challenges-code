@@ -44,4 +44,4 @@ response = @client.account.messages.create(
 puts response.to
 
 #App will respond to user with a random answer to their questions
-#Made with love by Eric A. Washington
+#Made with love by Eric A. Washington 2015
